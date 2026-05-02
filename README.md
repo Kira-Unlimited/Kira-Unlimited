@@ -1,4 +1,4 @@
-# About Me 💃
+# About Me 💃🐕
 
 Hello! I'm Kira. I'm not CLUELESS about computer science things, but I also don't REALLY know what I'm doing. In my heart, I'm a tech hater, but my goal currently is to learn more about computers in an attempt to find out if I actually hate them, or if I just hate feeling like I can't understand them.
 
