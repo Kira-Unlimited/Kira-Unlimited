@@ -22,7 +22,7 @@ I didn't even realize that this statistics course included a computer lab when I
 ### Building Some Serious Excel Spreadsheets (March-December 2023)
 I worked as a Structural Engineering Intern for a while, and my job was basically building complex excel spreadsheets to run calculations about geometry and other things for bridges and box culverts. Which is to say, I got very good at coding little boxes of excel spreadsheets to do cool stuff. I'm not totally sure why the entire field of Civil Engineering is running on excel and nobody has built better software for this (given that civil engineering involves calculus and excel isn't really built for that), but I did learn a lot from this experience!
 
-## My Current Course of Study 🤓
+## My Current Course of Study 🤓 📚
 
 My current plan is to work my way through the free Harvard CS 50 course on YouTube and see what I learn from that. After that, I will likely design some simple projects for myself to practice my skills.
 
