@@ -28,5 +28,5 @@ My current plan is to work my way through the free Harvard CS 50 course on YouTu
 
 ## Follow my Computer Science Journey 🤩
 
-You can follow my computer science journey over on YouTube. My YouTube profile is linked over in the sidebar under my profile picture!
+You can follow my computer science journey over on YouTube. My YouTube channel is linked over in the sidebar under my profile picture!
 
