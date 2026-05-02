@@ -2,7 +2,7 @@
 
 Hello! I'm Kira. I'm not CLUELESS about computer science things, but I also don't REALLY know what I'm doing. In my heart, I'm a tech hater, but my goal currently is to learn more about computers in an attempt to find out if I actually hate them, or if I just hate feeling like I can't understand them.
 
-## My Background in General 🖋️
+## My Background in General 🖋️📐👩‍🏫
 
 My bachelor's degree is in creative writing (not computer science-related at all!). I started, but then dropped out of, a master's degree in structual engineering, which is also not really computer science-related, but I did pick up a few computer-science type skills while I was doing that.
 
@@ -11,7 +11,7 @@ For the last two years I've been a high school English teacher in a public schoo
 ## My Background in Computer Science 🖥️
 
 ### AP Computer Science Principles (2016-2017 School Year)
-This class was lowkey kind of a joke, but we did get an overview of quite a few things. Off the top of my head, the main things I remember learning from this class were that when you upload or download things, they travel in packets and not all as one thing and how to set a password that would take a very long time to hack by setting a computer to try every possibility.
+This class was lowkey kind of a joke, but we did get an overview of quite a few things. Off the top of my head, the main things I remember learning from this class were that when you upload or download things, they travel in packets and not all as one thing and that a password should be quite long so that would take a very long time to hack by setting a computer to try every possibility.
 
 ### Accelerated Introduction to Object-Oriented Programming in Java (Fall 2022 Semester, University of Utah)
 This class was not a joke! I worked very hard for this class! I was also taking Engineering Economics, Linear Algebra for math majors, junior-level Statistics for math majors, and Strength of Materials this semester, and OOP was my last priority, so when I would run out of time to debug and such things, I would ask my dad for help to speed things along. (He's a senior software engineer at a big company). As a result, I learned a lot, but less than I could have if I had had the time to be patient and work through everything myself. I do definitely understand the basic functioning of if, for, etc. though, which is good!
