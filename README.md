@@ -24,7 +24,7 @@ I worked as a Structural Engineering Intern for a while, and my job was basicall
 
 ## My Current Course of Study 🤓 📚
 
-My current plan is to work my way through the free Harvard CS 50 course on YouTube and see what I learn from that. After that, I will likely design some simple projects for myself to practice my skills.
+Currently working on Week 1 of HarvardX CS50. (This is free to do online, if you've somehow found your way here without knowing basic computer stuff and want to learn!)
 
 ## Follow my Computer Science Journey 🤩
 
